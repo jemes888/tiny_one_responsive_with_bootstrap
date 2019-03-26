@@ -31,6 +31,15 @@
     text-align: center;
 }
 /*form button*/
+.for-form {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.p_l_0 {
+    padding-left: 0;
+    margin-top: 20px;
+    left: 100px;
+}
 .cust-color {
     margin-top: 19px;
 }
@@ -88,6 +97,10 @@
     text-align: center;
 }
 /*form button*/
+.for-form {
+    margin-left: 12%;
+    margin-right: 13%;
+}
 .cust-color {
     margin-top: 19px;
 }
